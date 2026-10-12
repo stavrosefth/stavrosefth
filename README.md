@@ -7,9 +7,11 @@
 </p>
 
 <p align="center">
+  🎓 Computer Science @ AUTh &nbsp;·&nbsp; 📍 Thessaloniki, Greece
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/stavros-efthymiadis/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.csd.auth.gr/en/"><img src="https://img.shields.io/badge/AUTh-Computer%20Science-302b63?style=for-the-badge" alt="AUTh Computer Science"/></a>
-  <a href="https://en.wikipedia.org/wiki/Thessaloniki"><img src="https://img.shields.io/badge/Greece-Thessaloniki-0D5EAF?style=for-the-badge" alt="Thessaloniki, Greece"/></a>
 </p>
 
 ---
