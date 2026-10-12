@@ -10,7 +10,6 @@
   <a href="https://www.linkedin.com/in/stavros-efthymiadis/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/AUTh-Computer%20Science-302b63?style=for-the-badge" alt="AUTh Computer Science"/>
   <img src="https://img.shields.io/badge/Greece-Thessaloniki-0D5EAF?style=for-the-badge" alt="Thessaloniki, Greece"/>
-  <img src="https://komarev.com/ghpvc/?username=stavrosefth&style=for-the-badge&color=8b7cf6&label=Profile+views" alt="Profile views"/>
 </p>
 
 ---
@@ -43,7 +42,7 @@ Computer Science student at the **Aristotle University of Thessaloniki**, workin
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=stavrosefth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stavrosefth&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stavrosefth&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=c%23" alt="Top languages"/>
 </p>
 
 <p align="center">
